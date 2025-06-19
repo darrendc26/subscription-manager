@@ -1,0 +1,10 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+.env
+/root/solana-proj/solana-subscription-manager/solana-subscription-manager/~C:/Users/user/.config/solana/id2.json
+/root/solana-proj/solana-subscription-manager/~C:/Users/user/.config/solana/id2.json
